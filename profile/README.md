@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logos/krow(main).png" alt="Krow" width="240">
+  <img src="../assets/logos/krow(main).png" alt="Krow" width="240">
 </p>
 
 <h1 align="center">Krow</h1>
@@ -118,7 +118,7 @@ For business inquiries, partnerships, or security-related contact, please visit 
 ---
 
 <p align="center">
-  <img src="assets/logos/krow(symbol).png" width="80">
+  <img src="../assets/logos/krow(symbol).png" width="80">
   <br><br>
   <sub><strong>Krow</strong> — Dream. Think. Build.</sub>
 </p>
