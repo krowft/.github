@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://krow-mocha.vercel.app/
+    about: Read our official documentation before opening an issue.
+  - name: Community Discord
+    url: https://discord.gg/aa3HPzyVv
+    about: Join our Discord for general discussion and support.
+  - name: Security Vulnerability
+    url: https://github.com/krowft/Krow/security/policy
+    about: Report security vulnerabilities privately.
