@@ -13,6 +13,9 @@
   <a href="https://github.com/krowft">
     <img src="https://img.shields.io/badge/github-krowft-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://www.linkedin.com/company/krowft">
+    <img src="https://img.shields.io/badge/linkedin-krowft-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://discord.gg/aa3HPzyVv">
     <img src="https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
@@ -108,6 +111,7 @@ Long term, Krow will ship products that influence how teams build, deploy, and o
 | --- | --- |
 | **Website** | [krow-mocha.vercel.app](https://krow-mocha.vercel.app/) |
 | **GitHub** | [github.com/krowft](https://github.com/krowft) |
+| **LinkedIn** | [linkedin.com/company/krowft](https://www.linkedin.com/company/krowft) |
 | **Discord** | [Join the community](https://discord.gg/aa3HPzyVv) |
 | **Issues** | [Report a bug or request a feature](https://github.com/krowft/Krow/issues) |
 
